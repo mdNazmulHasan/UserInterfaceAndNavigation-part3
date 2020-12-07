@@ -3,4 +3,6 @@
     <string name="file">File</string>
     <string name="create_new">Create New</string>
     <string name="open">Open</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
 </resources>
