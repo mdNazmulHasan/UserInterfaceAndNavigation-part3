@@ -5,4 +5,6 @@
     <string name="open">Open</string>
     <string name="ok">Ok</string>
     <string name="cancel">Cancel</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
 </resources>
